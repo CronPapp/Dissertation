@@ -13,7 +13,7 @@ function showHelpOld() {
   
     let helpHtml = `
       <div class="help-overlay-content">
-        <h1>List of current crisis/help phone numbers</h1>
+        <h1>Crisis/Help Contacts</h1>
         <div class="contacts-wrapper">
           ${contactsHtml}
         </div>
